@@ -8,7 +8,7 @@ namespace LeetCode.Solution.P53_MaximumSubarray
     public class SolutionTest
     {
         [Fact]
-        public void IsValid()
+        public void MaxSubArray()
         {
             int[] array = new[] { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
 
