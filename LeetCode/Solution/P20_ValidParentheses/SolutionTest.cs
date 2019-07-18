@@ -8,7 +8,7 @@ namespace LeetCode.Solution.P20_ValidParentheses
     public class SolutionTest
     {
         [Fact]
-        public void Q20ValidParentheses()
+        public void IsValid()
         {
             string str1 = "()[]{}";
             string str2 = "([)]";
