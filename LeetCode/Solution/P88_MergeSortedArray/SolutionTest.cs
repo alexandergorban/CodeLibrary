@@ -8,7 +8,7 @@ namespace LeetCode.Solution.P88_MergeSortedArray
     public class SolutionTest
     {
         [Fact]
-        public void RemoveDuplicates()
+        public void Merge()
         {
             int[] nums1 = new int[] { 1, 2, 3, 0, 0, 0 };
             int m = 3;
